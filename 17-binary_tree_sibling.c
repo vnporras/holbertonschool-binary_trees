@@ -1,8 +1,8 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_balance - function that measures the balance factor..
- * @tree: pointer to the root node.
+ * binary_tree_sibling - function that finds the sibling of a node.
+ * @tree: pointer to the node.
  * Return: 0 .
  */
 
